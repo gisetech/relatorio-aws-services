@@ -3,6 +3,7 @@
 Relatório descritivo de exemplo para implementação de serviços AWS com foco em **otimização de custos**.
 
 **Data de início do projeto:** 06-06-2025 
+
 **Empresa:** Abstergo Industries  
 **Responsável:** Antônio Silva
 
