@@ -1,8 +1,6 @@
-# ProjectAWS-Custos
+# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Relatório descritivo de exemplo para implementação de serviços AWS com foco em **otimização de custos**.
-
-## RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 **Data de início do projeto:** 06-06-2025 
 **Empresa:** Abstergo Industries  
